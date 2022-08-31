@@ -38,4 +38,3 @@ Throughout this project, we learned how to create map layers, visual customizati
 
 ![additionalmap](https://user-images.githubusercontent.com/103727169/187364148-af9d4b97-cf89-4a37-81f4-8ace47730557.png)
 
-***Interactive map can be access through this [link](https://munno88.github.io/Interactive-Earthquake-Map/).***
